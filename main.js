@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", function () {
         // Start typewriter effect for the second line
         const typedTextElement = document.querySelector(".typed-text");
         setTimeout(() => {
-            typeWriterEffect(typedTextElement, "Will you forgive me for Everything 🥹?");
+            typeWriterEffect(typedTextElement, "Will you forgive me for Everything?");
         }, 500); // Delay to allow smooth transition
     }
 
